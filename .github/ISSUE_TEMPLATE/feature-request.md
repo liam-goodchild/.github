@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: "[FEATURE] - Placeholder"
-labels: feature
+labels: use-type-field-instead
 assignees: liam-goodchild
 ---
 
