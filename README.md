@@ -1,3 +1,3 @@
 # .github
 
-Default community health files for all repositories under this account. Contains shared issue and pull request templates that apply automatically to any repo that does not define its own.
+Shared GitHub community health repository for the `liam-goodchild` account. It provides default issue templates, pull request templates, and shared automation that repositories can inherit when they do not define their own.
